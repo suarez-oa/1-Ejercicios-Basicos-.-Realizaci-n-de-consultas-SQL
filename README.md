@@ -6,8 +6,6 @@ Bienvenido al sistema de evaluación de MySQL diseñado para probar y validar tu
 
 La evaluación está estructurada para abordar diferentes aspectos de MySQL, desde la comprensión de la estructura de las bases de datos hasta la realización de consultas complejas. A lo largo de esta prueba, se te presentarán preguntas que van desde definir la sintaxis correcta hasta formular consultas que resuelvan problemas específicos utilizando datos de muestra proporcionados.
 
-![Esquema de la relación de bases de datos para la evaluación](/path/to/your/image.png)
-
 ## ¿Cómo Funciona la Evaluación?
 
 La evaluación se compone de una serie de preguntas de opción múltiple y respuestas cortas que debes completar utilizando un formulario de Google. Cada pregunta ha sido cuidadosamente diseñada para medir tu entendimiento y habilidad para aplicar conceptos fundamentales de SQL en escenarios reales.
@@ -24,7 +22,7 @@ Para comenzar la evaluación, sigue estos pasos:
 
 1. **Estudia el Esquema**: Revisa el esquema de la base de datos proporcionado que será el contexto de tus consultas durante la evaluación.
 2. **Descarga el Código**: Antes de comenzar la prueba, descarga el código SQL necesario para configurar tu ambiente de prueba local desde [este enlace](https://drive.google.com/file/d/1fAIW9sI4qkM7cEL6P78G90fgcOSmSESQ/view?usp=drive_link).
-3. **Realiza la Prueba**: Completa la evaluación accediendo al [Formulario de Google]([https://docs.google.com/forms/d/e/1FAIpQLSdqykXcrprHLy_DiF2OCKomQlXxCM_sHPMhq3nMgg5MQm6Zlw/viewform?usp=sharing](https://forms.gle/sHkXjvw4Y9Jd8tai7).
+3. **Realiza la Prueba**: Completa la evaluación accediendo al [Formulario de Google](https://forms.gle/cDqFkC55zgP2E6YN6)
 4. **Verifica tus Respuestas**: Después de completar la prueba, puedes revisar las respuestas esperadas descargando el siguiente documento [Preguntas y Respuestas](https://drive.google.com/file/d/1UXE-kor0Ipjf6toU_kDhhuQ_l_UO6VAi/view?usp=sharing).
 
 ## Consejos para el Éxito
